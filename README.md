@@ -34,11 +34,6 @@
   </a>
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/UntidyPhishBass/UntidyPhishBass/output/snake.svg" alt="Snake animation" />
 
 ###
 
