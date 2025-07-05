@@ -4,23 +4,20 @@
 
 <p align="left">I am Aditya, an AI and Data Science student. I'm learning Machine Learning and Deep Learning, and like to find data driven solutions to real world problems!</p>
 
-###
-
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="3" alt="javascript logo"  />
-  <img width="7" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="3" alt="python logo"  />
-  <img width="7" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="3" alt="cplusplus logo"  />
-  <img width="7" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="3" alt="jupyter logo"  />
-  <img width="7" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="3" alt="html5 logo"  />
-  <img width="7" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="3" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="8" style="vertical-align: middle;" alt="javascript logo" />
+  <img width="4" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="8" style="vertical-align: middle;" alt="python logo" />
+  <img width="4" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="8" style="vertical-align: middle;" alt="cplusplus logo" />
+  <img width="4" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="8" style="vertical-align: middle;" alt="jupyter logo" />
+  <img width="4" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="8" style="vertical-align: middle;" alt="html5 logo" />
+  <img width="4" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="8" style="vertical-align: middle;" alt="css3 logo" />
 </div>
 
-###
 
 <div align="left">
   <a href="https://www.instagram.com/untidyphish/" target="_blank">
