@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am Aditya, an AI and Data Science student. I'm learning Machine Learning and Deep Learning, and like to find data driven solutions to real world problems!</p>
+<p align="left">I am Aditya, an AI and Data Science Engineer and Fullstack Web Developer with experience in LLM apps.</p>
 
 
 
